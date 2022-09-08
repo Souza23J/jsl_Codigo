@@ -1,0 +1,9 @@
+bower_components
+node_modules
+config.json
+dist
+dest
+build
+zip
+tab-rotate*.zip
+package-lock.json
